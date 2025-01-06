@@ -1,0 +1,7 @@
+C:\Users\Randa\OneDrive\Desktop\c#classpractice\OOPHomeWork-1\obj\Debug\OOPHomeWork-1.csproj.AssemblyReference.cache
+C:\Users\Randa\OneDrive\Desktop\c#classpractice\OOPHomeWork-1\obj\Debug\OOPHomeWork-1.csproj.CoreCompileInputs.cache
+C:\Users\Randa\OneDrive\Desktop\c#classpractice\OOPHomeWork-1\bin\Debug\OOPHomeWork-1.exe.config
+C:\Users\Randa\OneDrive\Desktop\c#classpractice\OOPHomeWork-1\bin\Debug\OOPHomeWork-1.exe
+C:\Users\Randa\OneDrive\Desktop\c#classpractice\OOPHomeWork-1\bin\Debug\OOPHomeWork-1.pdb
+C:\Users\Randa\OneDrive\Desktop\c#classpractice\OOPHomeWork-1\obj\Debug\OOPHomeWork-1.exe
+C:\Users\Randa\OneDrive\Desktop\c#classpractice\OOPHomeWork-1\obj\Debug\OOPHomeWork-1.pdb
