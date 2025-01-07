@@ -1,0 +1,7 @@
+C:\Users\Randa\OneDrive\Desktop\MathSolutionsProgram\MathSolutionsProgram\bin\Debug\OOPHomeWork-1.exe.config
+C:\Users\Randa\OneDrive\Desktop\MathSolutionsProgram\MathSolutionsProgram\bin\Debug\OOPHomeWork-1.exe
+C:\Users\Randa\OneDrive\Desktop\MathSolutionsProgram\MathSolutionsProgram\bin\Debug\OOPHomeWork-1.pdb
+C:\Users\Randa\OneDrive\Desktop\MathSolutionsProgram\MathSolutionsProgram\obj\Debug\MathSolutions.csproj.AssemblyReference.cache
+C:\Users\Randa\OneDrive\Desktop\MathSolutionsProgram\MathSolutionsProgram\obj\Debug\MathSolutions.csproj.CoreCompileInputs.cache
+C:\Users\Randa\OneDrive\Desktop\MathSolutionsProgram\MathSolutionsProgram\obj\Debug\OOPHomeWork-1.exe
+C:\Users\Randa\OneDrive\Desktop\MathSolutionsProgram\MathSolutionsProgram\obj\Debug\OOPHomeWork-1.pdb

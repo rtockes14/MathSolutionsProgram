@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Threading;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MathSolutions
 {
@@ -11,6 +8,8 @@ namespace MathSolutions
     {
         static void Main(string[] args)
         {
+            List<UserModel> users = new List<UserModel>();
+
             bool stillWorking = true;
             string firstName = MessageHandler.AskUserForName();
 

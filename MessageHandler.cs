@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Threading;
 
 namespace MathSolutions
@@ -7,10 +8,29 @@ namespace MathSolutions
     {
         public static string AskUserForName()
         {
-            //Console.SetWindowSize(224, 224);
-            Console.Write("Please enter your name: ");
-            string firstName = Console.ReadLine();
+            List<UserModel> users = new List<UserModel>();
+            string firstName = "";
 
+            do
+            {
+                Console.Write("Please enter your name (or type exit to stop): \t");
+                firstName = Console.ReadLine();
+
+                if (firstName.ToLower() != "exit")
+                {
+                    UserModel user = new UserModel();
+                    user.FirstName = firstName;
+                    users.Add(user);
+                }
+
+            } while (firstName != "exit");
+
+            //foreach (UserModel u in users)
+            //{
+            //    Console.WriteLine(u.FirstName);
+            //}
+
+            Console.ReadLine();
             return firstName;
         }
 
