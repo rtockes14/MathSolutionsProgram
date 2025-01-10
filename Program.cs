@@ -8,12 +8,10 @@ namespace MathSolutions
     {
         static void Main(string[] args)
         {
-            List<UserModel> users = new List<UserModel>();
-
             bool stillWorking = true;
-            string firstName = MessageHandler.AskUserForName();
+            UserModel user = MessageHandler.AskUserForName();
 
-            MessageHandler.GreetUser(firstName);
+            MessageHandler.GreetUser(user.FirstName);
 
             do
             {
